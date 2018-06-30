@@ -1,2 +1,2 @@
 # fancy-demo
-Java thred arch interview
+Java thread arch interview
